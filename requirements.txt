@@ -13,3 +13,4 @@ ipywidgets
 seaborn
 Shapely
 fijibin
+cloudknot
